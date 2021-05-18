@@ -1,2 +1,2 @@
 # CryptoLive
-A Project where one can see live price of a particular Cryptocurrency.
+A Project where one can see live price of any particular Cryptocurrency.
